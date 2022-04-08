@@ -3,7 +3,7 @@
 
 function App() {
   return (
-    <div>proyecto base instagram</div>
+    <div>otra cosa</div>
   );
 }
 
